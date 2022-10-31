@@ -1,0 +1,10 @@
+To get started, create a Java Project and add all the Classes to it. I use the eclipse IDE.
+There are 2 classes with a main method: Universe and Fractal
+
+In Universe you can set the initial conditions: You can set the particles manually, os generate them randomly. 
+The code will genetate a sequence of png-files, that can be put together to a movie.
+
+In Fractal it generates one png-file: The 3-body-Fractal to the specified initial conditions. Meaning each pixel shows into which star the planet will fall after how much time. 
+Warning: The code for this is extremely slow.
+
+If there are any questions, feel free to ask! For example on Twitter, or in my Discord: https://discord.gg/3XNxnGZRVs
